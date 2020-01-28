@@ -1,0 +1,1 @@
+My app for this project is called Chop Chop. 
